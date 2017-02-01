@@ -7,8 +7,6 @@ package boletin17_1;
 
 import java.util.Arrays;
 import javax.swing.JOptionPane;
-
-
 /**
  *
  * @author ped90
